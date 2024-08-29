@@ -2,7 +2,7 @@ package com.lbrce.demo;
 
 public class Car {
 	public void newTyre() {
-		System.out.println("Hello Tyre");
+		System.out.println("Hello Tye");
 	}
 
 }
